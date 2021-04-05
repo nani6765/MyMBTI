@@ -1,5 +1,4 @@
 const main = document.querySelector("#main");
-const qna = document.querySelector("#qna");
 
 function begin(){
   main.style.WebkitAnimation = "fadeOut 1s";
