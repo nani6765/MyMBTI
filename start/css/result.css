@@ -1,0 +1,47 @@
+#result {
+    display: none;
+    background: whitesmoke;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+}
+
+#shareResult{
+    background: whitesmoke;
+    width: 80%;
+    text-align: center;
+    border-radius: 20px;
+}
+.resultName{
+    font-size: 26px;
+}
+
+.resultDesc {
+    font-size: 20px;
+}
+
+.kakao {
+    color: white;
+    background-color: #fee500;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 15px;
+}
+
+.kakao:hover, .kakao:focus {
+    background-color: whitesmoke;
+    color: #fee500; 
+}
+
+.gohome{
+    color: white;
+    background-color: pink;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 20px;
+  }
+  
+  .gohome:hover, .gohome:focus {
+    background-color: whitesmoke;
+    color: pink;
+  }  
